@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import io from "socket.io-client";
 import { TextField, Box, Typography, Paper } from "@mui/material";
 
-const socket = io(process.env.NEXT_PUBLIC_BACKEND_URL || "http://localhost:3001");
+const socket = io(process.env.NEXT_PUBLIC_BACKEND_URL || "process.env.NEXT_PUBLIC_BACKEND_URL");
 
 export default function MessageBoard() {
   const [message, setMessage] = useState("");
