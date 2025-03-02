@@ -16,15 +16,6 @@
       ]
     }
   ],
-  "routes": [
-    {
-      "src": "^(.*)$",
-      "dest": "/index.html",
-      "headers": {
-        "x-hello": "world"
-      }
-    }
-  ],
   "trailingSlash": false,
   "cleanUrls": true
 }
