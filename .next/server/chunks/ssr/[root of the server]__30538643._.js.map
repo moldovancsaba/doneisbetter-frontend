@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 55, "column": 0}, "map": {"version":3,"sources":["file:///Users/moldovan/Projects/doneisbetter/frontend/pages/index.js"],"sourcesContent":["export default function Home() {\n    return (\n        <div>\n            <h1>Hello, World!</h1>\n        </div>\n    );\n}\n\n"],"names":[],"mappings":";;;;;AAAe,SAAS;IACpB,qBACI,qKAAC;kBACG,cAAA,qKAAC;sBAAG;;;;;;;;;;;AAGhB","debugId":null}},
-    {"offset": {"line": 75, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
