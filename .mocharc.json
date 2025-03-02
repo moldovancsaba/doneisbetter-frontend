@@ -1,0 +1,1 @@
+{"extension": ["js"], "loader": ["ts-node/register"], "spec": "test/**/*.test.js"}
